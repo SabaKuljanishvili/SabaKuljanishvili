@@ -1,4 +1,4 @@
-<h1> I'm junior Web developer 👨🏻‍💻 // Film editor 📽️ // Photo editor 📸</h1>
+<h1> I'm junior Web developer 👨🏻‍💻</h1>
 <p>I'm frontend developer from Georgia, At first I started studying on my own and learned HTML CSS JS React Typescript and built a website which is now on a social network. After that I decided to study at IT Academy Step where I passed HTML CSS and now I'm passing JS and built a complete website. I also have good knowledge of After effects, Premiere pro, Lightroom, Photoshop.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
