@@ -1,5 +1,5 @@
-# 💫 About Me:
-<h1> I'm junior Web developer 👨🏻‍💻</h1><br><p>I'm frontend developer from Georgia, At first I started studying on my own and learned HTML CSS JS React Typescript and built a website which is now on a social network. After that I decided to study at IT Academy Step where I passed HTML CSS and JS and built a complete website.<br>
+# About Me:
+<h1> I'm junior Web developer </h1><br><p>I'm frontend developer from Georgia, At first I started studying on my own and learned HTML CSS JS React Typescript and built a website which is now on a social network. After that I decided to study at IT Academy Step where I passed HTML CSS and JS and built a complete website.<br>
 
 
 ## 🌐 Socials:
